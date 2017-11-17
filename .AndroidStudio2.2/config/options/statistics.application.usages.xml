@@ -1,0 +1,38 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="TmdbMovies" values="AndroidRunConfigurationType" collectionTime="1508320569731" />
+    </group>
+    <group name="module type">
+      <project id="Student" values="JAVA_MODULE" collectionTime="1507968278097" />
+      <project id="TmdbMovies" values="JAVA_MODULE" collectionTime="1508320568637" />
+    </group>
+    <group name="file-type">
+      <project id="Student" values="Native,JSP,UNKNOWN,ProGuard File,JAVA,PATCH,ObjectiveC,Images,APK,ModuleMap,CSS,PLAIN_TEXT,HTML,Adobe Photoshop,C#,IDEA_MODULE,CLASS,Manifest,AIDL,DTD,Properties,Groovy,Android RenderScript,Perl,JavaScript,ARCHIVE,SPI,IDL,XML,YAML,JSON" collectionTime="1507968278568" />
+      <project id="TmdbMovies" values="Properties,IDEA_MODULE,UNKNOWN,Groovy,Images,JAVA,XML,ARCHIVE,PLAIN_TEXT,ProGuard File" collectionTime="1508320615180" />
+    </group>
+    <group name="Git">
+      <project id="Student" values="config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1507968279487" />
+      <project id="TmdbMovies" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1508320626666" />
+    </group>
+    <group name="frameworks">
+      <project id="TmdbMovies" values="android-gradle,android,java-gradle" collectionTime="1508320568544" />
+    </group>
+    <group name="language-level">
+      <project id="Student" values="JDK_1_8" collectionTime="1507968279378" />
+      <project id="TmdbMovies" values="JDK_1_7" collectionTime="1508320626041" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="9" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="14" />
+      <entry feature="terminal.win" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

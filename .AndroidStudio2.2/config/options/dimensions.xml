@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="396" y="65" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="616" y="232" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="502" y="231" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="12" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1366.768" x="581" y="138" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1366.768" x="463" y="162" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="112" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="8" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="13" />
+    <location key="com.android.tools.idea.gradle.structure.editors.MavenDependencyLookupDialog.0.0.1366.768" x="362" y="214" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="691" height="134" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="691" height="134" />
+  </component>
+</application>

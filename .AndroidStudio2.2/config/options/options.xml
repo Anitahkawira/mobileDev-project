@@ -1,0 +1,14 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1507963759553" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.AndroidStudio2.2/TmdbMovies&#10;C:/Users/Student" />
+    <property name="lastTip" value="14" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="newly.installed.api.level" value="17" />
+  </component>
+</application>
